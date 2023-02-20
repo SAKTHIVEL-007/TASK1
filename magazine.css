@@ -8,11 +8,7 @@ h1{
     margin: 10px;
 
 }
-body{
-background-image:url("night.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
-}
+
 input{
     border-color: #64666800;
 }
@@ -99,8 +95,8 @@ input{
 
 
   #main1{
-      b
-  width:70%;
+      
+  width:60%;
     margin: auto;
   }
 .content{
