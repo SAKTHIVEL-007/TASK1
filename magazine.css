@@ -90,7 +90,7 @@ input{
     justify-content: space-between;
   }
  #left{
-  width:60%;
+  width:50%;
   
 }
 #right{
@@ -99,7 +99,7 @@ input{
 
 
   #main1{
-      background-color:white;
+      b
   width:70%;
     margin: auto;
   }
@@ -187,7 +187,9 @@ h4{
   width: 250px;
   padding: 10px 10px;
 }
-
+#main1{
+background-color:white;
+}
 
 
 
