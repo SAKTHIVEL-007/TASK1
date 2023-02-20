@@ -99,9 +99,7 @@ input{
   width:60%;
     margin: auto;
   }
-.content{
-  background-image: "night.jpg";
-}
+
 #first{
   border-bottom: 5px solid rgb(194, 190, 190);
   width:580px;
